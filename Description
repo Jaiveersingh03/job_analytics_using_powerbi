@@ -1,0 +1,13 @@
+This project involves analyzing job market trends on LinkedIn using Power BI to provide data-driven insights for job seekers, recruiters, and career advisors.
+The analysis includes data extraction , cleaning, and  transformation to visualize key metrics such as top job roles, hiring  companies, location-wise demand, required skills, and experience levels.
+Interactive dashboards and reports were created in Power BI to uncover patterns in job postings, helping users make informed career decisions.
+
+Key Features:
+Extracted job posting data from LinkedIn .
+Cleaned and transformed raw data using Power Query.
+Built dynamic dashboards in Power BI with filters for location, job title, and industry.
+Visualized key insights like job trends over time, top hiring companies, skill demand analysis, and job type distribution.
+Enabled stakeholders to interact with real-time insights through drill-down visuals and slicers.
+
+Tools & Technologies:
+Power BI, DAX, Excel, LinkedIn Data, Data Modeling.
